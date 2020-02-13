@@ -2,3 +2,4 @@
  #don't track these files
 results
  # Ignore all results
+!a.dat
